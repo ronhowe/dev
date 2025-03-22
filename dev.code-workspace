@@ -1,6 +1,10 @@
 {
 	"folders": [
 		{
+			"name": "azure",
+			"path": "../azure"
+		},
+		{
 			"name": "dev",
 			"path": "."
 		},
@@ -24,5 +28,8 @@
 			"name": "sql",
 			"path": "../sql"
 		}
-	]
+	],
+	"settings": {
+		"powershell.cwd": "powershell"
+	}
 }
