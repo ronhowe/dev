@@ -5,6 +5,10 @@
 			"path": "../azure"
 		},
 		{
+			"name": "code",
+			"path": "../code"
+		},
+		{
 			"name": "dev",
 			"path": "."
 		},
