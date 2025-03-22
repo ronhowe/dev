@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "dev",
+			"path": "."
+		},
+		{
+			"name": "dotnet",
+			"path": "../dotnet"
+		},
+		{
+			"name": "powershell",
+			"path": "../powershell"
+		},
+		{
+			"name": "roll20",
+			"path": "../roll20"
+		},
+		{
+			"name": "ronhowe",
+			"path": "../ronhowe"
+		},
+		{
+			"name": "sql",
+			"path": "../sql"
+		}
+	]
+}
